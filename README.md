@@ -3,6 +3,7 @@
 ## 🌐 Project Description
 A simple and responsive **Personal Portfolio Website** made using HTML5, CSS3, and basic JavaScript. This static site showcases your personal information, skills, education, and contact details — like a digital resume.
 
+## Demo link - https://gukanr007.github.io/html-css-java/
 ## ✨ Features
 - Clean "About Me" section
 - Skills list and projects section
